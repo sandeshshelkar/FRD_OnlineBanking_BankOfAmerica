@@ -1,0 +1,1 @@
+This repository contains the Functional Requirements Document (FRD) for the Online Banking System, which aims to provide customers with 24/7 access to their accounts. The implementation of this system will enable users to perform banking activities online, reducing reliance on call centers and improving customer experience while optimizing operational costs.
